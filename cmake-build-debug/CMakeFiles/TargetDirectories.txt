@@ -1,0 +1,3 @@
+/Users/navid_dev/CLionProjects/studycpp/cppproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/navid_dev/CLionProjects/studycpp/cppproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/navid_dev/CLionProjects/studycpp/cppproject/cmake-build-debug/CMakeFiles/studycpp.dir
